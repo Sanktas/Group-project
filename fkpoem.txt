@@ -4,9 +4,11 @@ My fingers can snap or
 can turn on the light
 
 Yummy tummy chummy 
-<<<<<<< HEAD
 
 Urban cool
+
 =======
+
 Times 2x!
->>>>>>> e41f8fffc20f08ce391197c1b5121b17bf51a867
+
+
