@@ -3,3 +3,8 @@ In a black hat
 Caught a bat
 
 And a rat
+<<<<<<< HEAD
+=======
+
+Ändrat//Patrik
+>>>>>>> 5cdbbe16f2ba54d0218e0905e88cf8fb3a2ca3f0
